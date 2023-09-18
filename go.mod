@@ -48,7 +48,6 @@ require (
 	github.com/zclconf/go-cty v1.1.0
 	github.com/zorkian/go-datadog-api v2.24.0+incompatible
 	go.opencensus.io v0.22.1 // indirect
-	golang.org/x/crypto v0.0.0-20191010185427-af544f31c8ac // indirect
 	golang.org/x/exp v0.0.0-20191002040644-a1355ae1e2c3 // indirect
 	golang.org/x/lint v0.0.0-20190930215403-16217165b5de // indirect
 	golang.org/x/net v0.0.0-20191009170851-d66e71096ffb // indirect
@@ -60,12 +59,9 @@ require (
 	google.golang.org/appengine v1.6.5 // indirect
 	google.golang.org/genproto v0.0.0-20191009194640-548a555dbc03
 	google.golang.org/grpc v1.24.0 // indirect
-	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/resty.v0 v0.4.1 // indirect
-	k8s.io/api v0.0.0-20191010143144-fbf594f18f80 // indirect
-	k8s.io/apimachinery v0.0.0-20191006235458-f9f2f3f8ab02
-	k8s.io/client-go v0.0.0-20191003000419-f68efa97b39e
-	k8s.io/utils v0.0.0-20191010214722-8d271d903fe4 // indirect
+	k8s.io/apimachinery v0.17.16
+	k8s.io/client-go v0.17.16
 )
 
 // related to invalid pseudo-version: does not match version-control timestamp (2019-04-09T20:28:23Z)
