@@ -128,6 +128,9 @@ github.com/davecgh/go-spew/spew
 github.com/dgrijalva/jwt-go
 # github.com/dimchansky/utfbom v1.1.0
 github.com/dimchansky/utfbom
+# github.com/dollarshaveclub/new-relic-synthetics-go v0.0.0-20170605224734-4dc3dd6ae884
+github.com/dollarshaveclub/new-relic-synthetics-go
+github.com/dollarshaveclub/new-relic-synthetics-go/util
 # github.com/fatih/color v1.7.0
 github.com/fatih/color
 # github.com/gogo/protobuf v1.3.0
@@ -573,7 +576,7 @@ google.golang.org/grpc/test/bufconn
 gopkg.in/inf.v0
 # gopkg.in/resty.v0 v0.4.1
 gopkg.in/resty.v0
-# gopkg.in/yaml.v2 v2.2.4
+# gopkg.in/yaml.v2 v2.2.8
 gopkg.in/yaml.v2
 # honnef.co/go/tools v0.0.1-2019.2.3
 honnef.co/go/tools/arg
@@ -640,7 +643,7 @@ k8s.io/api/settings/v1alpha1
 k8s.io/api/storage/v1
 k8s.io/api/storage/v1alpha1
 k8s.io/api/storage/v1beta1
-# k8s.io/apimachinery v0.0.0-20191006235458-f9f2f3f8ab02
+# k8s.io/apimachinery v0.16.13
 k8s.io/apimachinery/pkg/api/errors
 k8s.io/apimachinery/pkg/api/meta
 k8s.io/apimachinery/pkg/api/resource

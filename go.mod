@@ -60,10 +60,9 @@ require (
 	google.golang.org/appengine v1.6.5 // indirect
 	google.golang.org/genproto v0.0.0-20191009194640-548a555dbc03
 	google.golang.org/grpc v1.24.0 // indirect
-	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/resty.v0 v0.4.1 // indirect
 	k8s.io/api v0.0.0-20191010143144-fbf594f18f80 // indirect
-	k8s.io/apimachinery v0.0.0-20191006235458-f9f2f3f8ab02
+	k8s.io/apimachinery v0.16.13
 	k8s.io/client-go v0.0.0-20191003000419-f68efa97b39e
 	k8s.io/utils v0.0.0-20191010214722-8d271d903fe4 // indirect
 )
